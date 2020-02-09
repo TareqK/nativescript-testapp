@@ -1,0 +1,5 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+  <ActionBar title="My App" icon=""></ActionBar>
+  <Label text="{{ message }}"></Label>
+  <Button text="FIRST PAGE" tap="goToMainPage"></Button>
+</Page>
